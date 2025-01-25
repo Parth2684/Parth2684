@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Parth Bhosle and I'm a ..., from India.</h2>
+<h2 align="left">Hi 👋! My name is Parth Bhosle and I'm a Software Engineer, from India.</h2>
 
 ###
 
