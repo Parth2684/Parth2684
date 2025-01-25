@@ -9,7 +9,7 @@
 <h2>📚 About Me</h2>
 
 - 🔭 Currently pursuing exciting projects like **EyeView** and **CampusConnect**
-- 🎓 B.E. in Information and Technology (First Class) from **Vasantdada Patil College of Engineering**
+- 🎓 B.E. in Information and Technology from **Vasantdada Patil College of Engineering**
 - 🌟 Specializing in **Full Stack Development** and **AI-powered systems**
 - ✉️ Reach me at: bhosle6006@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/parth-bhosle-46a078271)
