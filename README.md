@@ -18,7 +18,7 @@
 
 <h2>🚀 Projects</h2>
 
-### 🔹 [Cacheupp](https://github.com/michael-020/CacheUp)               [Live](www.cacheupp.com)
+### 🔹 [Cacheupp](https://github.com/michael-020/CacheUp)               [Live](https://www.cacheupp.com)
 A social media platform with smart forums section
 - State Management With Zustand
 - Smart Vector Search for Forums
