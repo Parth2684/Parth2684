@@ -18,17 +18,18 @@
 
 <h2>🚀 Projects</h2>
 
+### 🔹 [Cacheupp](https://github.com/michael-020/CacheUp)               [Live](www.cacheupp.com)
+A social media platform with smart forums section
+- State Management With Zustand
+- Smart Vector Search for Forums
+- Tech stack: **MERN** (MongoDB, Express, React, Node.js)
+
 ### 🔹 [EyeView](https://github.com/sahilhinge89/EyeView)
 An intelligent real-time camera system:
 - Detects misbehavior and alerts administrators in real-time
 - Built with **YOLOv8**, **Flask-SocketIO**, and **React**
 - Innovating with real-time video feed display and alerts
 
-### 🔹 [Cacheupp](https://github.com/michael-020/CacheUp)
-A social media platform with smart forums section
-- State Management With Zustand
-- Smart Vector Search for Forums
-- Tech stack: **MERN** (MongoDB, Express, React, Node.js)
 
 ---
 
