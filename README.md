@@ -24,10 +24,10 @@ An intelligent real-time camera system:
 - Built with **YOLOv8**, **Flask-SocketIO**, and **React**
 - Innovating with real-time video feed display and alerts
 
-### 🔹 [CampusConnect](https://github.com/michael-020/CampusConnect)
-A social media platform tailored for students:
-- Combines the best of **Instagram** and **Twitter**
-- Designed exclusively for **Vasantdada Patil College** students
+### 🔹 [Cacheupp](https://github.com/michael-020/CacheUp)
+A social media platform with smart forums section
+- State Management With Zustand
+- Smart Vector Search for Forums
 - Tech stack: **MERN** (MongoDB, Express, React, Node.js)
 
 ---
