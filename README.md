@@ -20,7 +20,7 @@
 
 <h2>🚀 Projects</h2>
 
-### 🔹 [CacheUpp](https://github.com/Parth2684/CacheUpp) — [Live](https://cacheupp.com)
+### 🔹 [CacheUpp](https://github.com/michael-020/CacheUp) — [Live](https://cacheupp.com)
 A feature-rich social platform with posts, forums, and real-time chat  
 - Implemented Google OAuth 2.0 and secure cookie-based authentication  
 - Enhanced forum search accuracy by **30%** using **pgvector embeddings**  
