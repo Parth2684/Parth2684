@@ -38,7 +38,7 @@ An **OCR + TTS** web app that turns PDFs and images into audio
 
 ---
 
-### 🔹 [Quizzo](https://github.com/Parth2684/Quizzo) — [Live](https://quizzo.parthcodes.com)
+### 🔹 [Quizzo](https://github.com/Parth2684/quiz-app) — [Live](https://quizzo.parthcodes.com)
 A full-stack quiz platform with secure authentication and real-time leaderboard  
 - Built with **NextAuth**, **Prisma ORM**, and **Zod** schema validation  
 - Enabled dynamic quiz creation with transactional logic and auto-scoring  
