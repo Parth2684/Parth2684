@@ -81,7 +81,7 @@ A minimalist note-taking app inspired by Google Keep
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Parth2684&show_icons=true&theme=radical" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Parth2684&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="GitHub stats" class="cursor-pointer" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Parth2684&show_icons=true&theme=radical" height="180" alt="GitHub stats" class="cursor-pointer" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Parth2684&layout=compact&langs_count=5&theme=radical&hide_border=false" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth2684&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top languages" class="cursor-pointer" />
