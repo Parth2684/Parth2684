@@ -47,12 +47,12 @@ A full-stack quiz platform with secure authentication and real-time leaderboard
 
 ---
 
-### 🔹 [SecondBrain](https://github.com/Parth2684/SecondBrain)
-A minimalist note-taking app inspired by Google Keep  
-- Implemented full CRUD using the **MERN stack**  
-- Integrated **Microlink API** for smart link previews, improving readability by **40%**  
-- Reduced runtime errors by **35%** with strong TypeScript integration  
-- Tech stack: **TypeScript**, **MERN**, **Microlink API**
+### 🔹 [Unicloud](https://github.com/Parth2684/unicloud)
+A full-stack platform that is actively developing secure cloud-account management  
+- Building a unified system for cloud sync and cloud management across multiple providers  
+- Implementing a Rust-powered backend with REST APIs and WebSockets for real-time updates 
+- Developing OAuth2.0 (Google) authentication, quota handling, and multi-cloud account integration
+- Tech stack: **Rust**, **Axum**, **SeaORM**, **tokio-tungstenite**, **Next.js**, **TypeScript**, **Tailwind**, **Zustand**
 
 ---
 
