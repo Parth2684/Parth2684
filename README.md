@@ -8,7 +8,7 @@
 
 <h2>📚 About Me</h2>
 
-- 💻 Full Stack Developer specializing in **Next.js**, **MERN**, and modern web technologies  
+- 💻 Full Stack Developer specializing in **Next.js**, **MERN**, **Rust** and modern web technologies  
 - 🎓 B.E. in Information Technology from **Vasantdada Patil College of Engineering, Mumbai**  
 - ⚙️ Skilled in designing scalable APIs, efficient database operations, and smooth UI/UX experiences  
 - ✉️ Reach me at: **bhosle6006@gmail.com**
