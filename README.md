@@ -20,6 +20,16 @@
 
 <h2>🚀 Projects</h2>
 
+
+### 🔹 [Unicloud](https://github.com/Parth2684/unicloud) — [Live](https://unicloud.parthcodes.com)
+A full-stack platform that is actively developing secure cloud-account management  
+- Building a unified system for cloud sync and cloud management across multiple providers  
+- Implementing a Rust-powered backend with REST APIs and WebSockets for real-time updates 
+- Developing OAuth2.0 (Google) authentication, quota handling, and multi-cloud account integration
+- Tech stack: **Rust**, **Axum**, **SeaORM**, **tokio-tungstenite**, **Next.js**, **TypeScript**, **Tailwind**, **Zustand**
+
+---
+
 ### 🔹 [CacheUpp](https://github.com/michael-020/CacheUp) — [Live](https://cacheupp.com)
 A feature-rich social platform with posts, forums, and real-time chat  
 - Implemented Google OAuth 2.0 and secure cookie-based authentication  
@@ -44,15 +54,6 @@ A full-stack quiz platform with secure authentication and real-time leaderboard
 - Enabled dynamic quiz creation with transactional logic and auto-scoring  
 - Enhanced UX with **Framer Motion** animations and responsive design  
 - Tech stack: **TypeScript**, **Next.js**, **Framer Motion**, **Prisma**, **NextAuth**
-
----
-
-### 🔹 [Unicloud](https://github.com/Parth2684/unicloud)
-A full-stack platform that is actively developing secure cloud-account management  
-- Building a unified system for cloud sync and cloud management across multiple providers  
-- Implementing a Rust-powered backend with REST APIs and WebSockets for real-time updates 
-- Developing OAuth2.0 (Google) authentication, quota handling, and multi-cloud account integration
-- Tech stack: **Rust**, **Axum**, **SeaORM**, **tokio-tungstenite**, **Next.js**, **TypeScript**, **Tailwind**, **Zustand**
 
 ---
 
