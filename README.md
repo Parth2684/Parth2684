@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Parth Bhosle</h1>
 
 <p align="center">
-  <em>A passionate Full Stack Developer building performant, modern, and user-friendly web applications. 🚀</em>
+  <em>💻 Software Engineer specializing in Rust, TypeScript, backend systems, and cross-platform application development.</em>
 </p>
 
 ---
@@ -30,21 +30,24 @@ A full-stack platform that is actively developing secure cloud-account managemen
 
 ---
 
+### 🔹 [Documind](https://github.com/Parth2684/documind-native) — [Live](https://documind.parthcodes.com)
+
+A cross-platform document accessibility application built with Rust and Tauri
+
+- Delivers OCR and offline text-to-speech across **Windows, Linux, and macOS**
+- Integrates **5 Gemini models** for OCR and structured document extraction from PDFs and images
+- Implements **multi-threaded Kokoro TTS** for parallel audio generation and faster document narration
+- Secures API credentials using **Stronghold encrypted storage** and stores data locally with **SQLite**
+- Tech stack: **Rust**, **Tauri**, **React**, **SQLx**, **SQLite**, **Gemini**, **Kokoro TTS**, **ONNX**
+
+---
+
 ### 🔹 [CacheUpp](https://github.com/michael-020/CacheUp) — [Live](https://cacheupp.com)
 A feature-rich social platform with posts, forums, and real-time chat  
 - Implemented Google OAuth 2.0 and secure cookie-based authentication  
 - Enhanced forum search accuracy by **30%** using **pgvector embeddings**  
 - Reduced state complexity by **20%** with **Zustand**, and added smooth **Framer Motion** transitions  
 - Tech stack: **TypeScript**, **MERN**, **pgvector**, **Prisma**, **Framer Motion**, **Zustand**
-
----
-
-### 🔹 [DocuMind](https://github.com/Parth2684/DocuMind) — [Live](https://documind.parthcodes.com)
-An **OCR + TTS** web app that turns PDFs and images into audio  
-- Extracts and edits text, then converts it to natural-sounding speech  
-- Improved document reading efficiency by **70%** using **WebAssembly-based TTS**  
-- Optimized performance with **Next.js**, **TailwindCSS**, and server-side rendering  
-- Tech stack: **TypeScript**, **Next.js**, **TailwindCSS**, **TTS**, **OCR**
 
 ---
 
@@ -70,6 +73,7 @@ A full-stack quiz platform with secure authentication and real-time leaderboard
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" height="40" alt="Tauri logo" />
   <img src="https://img.shields.io/badge/Axum-4B275F?style=for-the-badge&logo=rust&logoColor=white" height="40" alt="Axum logo" />
   <img src="https://img.shields.io/badge/SeaORM-1B6AC6?style=for-the-badge&logo=database&logoColor=white" height="40" alt="SeaORM logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
