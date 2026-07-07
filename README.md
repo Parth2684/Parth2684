@@ -12,7 +12,7 @@
 - 🎓 B.E. in Information Technology from **Vasantdada Patil College of Engineering, Mumbai**  
 - ⚙️ Skilled in designing scalable APIs, efficient database operations, and smooth UI/UX experiences  
 - ✉️ Reach me at: **bhosle6006@gmail.com**
-- 🌐 Visit my portfolio → [**parthcodes.com**](https://parthcodes.com)
+- 🌐 Visit my portfolio → [**parthbhosle.com**](https://parthbhosle.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/parth-bhosle-46a078271)  
 - 🧠 Always learning, optimizing, and experimenting with new web technologies  
 
@@ -21,7 +21,7 @@
 <h2>🚀 Projects</h2>
 
 
-### 🔹 [Unicloud](https://github.com/Parth2684/unicloud) — [Live](https://unicloud.parthcodes.com)
+### 🔹 [Unicloud](https://github.com/Parth2684/unicloud) — [Live](https://unicloud.parthbhosle.com)
 A full-stack platform that is actively developing secure cloud-account management  
 - Building a unified system for cloud sync and cloud management across multiple providers  
 - Implementing a Rust-powered backend with REST APIs and WebSockets for real-time updates 
@@ -30,7 +30,7 @@ A full-stack platform that is actively developing secure cloud-account managemen
 
 ---
 
-### 🔹 [Documind](https://github.com/Parth2684/documind-native) — [Live](https://documind.parthcodes.com)
+### 🔹 [Documind](https://github.com/Parth2684/documind-native) — [Live](https://documind.parthbhosle.com)
 
 A cross-platform document accessibility application built with Rust and Tauri
 
@@ -42,7 +42,7 @@ A cross-platform document accessibility application built with Rust and Tauri
 
 ---
 
-### 🔹 [CacheUpp](https://github.com/michael-020/CacheUp) — [Live](https://cacheupp.com)
+### 🔹 [CacheUpp](https://github.com/michael-020/CacheUp) — [Live](https://cacheupp.parthbhosle.com)
 A feature-rich social platform with posts, forums, and real-time chat  
 - Implemented Google OAuth 2.0 and secure cookie-based authentication  
 - Enhanced forum search accuracy by **30%** using **pgvector embeddings**  
@@ -51,7 +51,7 @@ A feature-rich social platform with posts, forums, and real-time chat
 
 ---
 
-### 🔹 [Quizzo](https://github.com/Parth2684/quiz-app) — [Live](https://quizzo.parthcodes.com)
+### 🔹 [Quizzo](https://github.com/Parth2684/quiz-app) — [Live](https://quizzo.parthbhosle.com)
 A full-stack quiz platform with secure authentication and real-time leaderboard  
 - Built with **NextAuth**, **Prisma ORM**, and **Zod** schema validation  
 - Enabled dynamic quiz creation with transactional logic and auto-scoring  
